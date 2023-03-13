@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.unicap.ed1.atividade02.Testes" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-07T13:20:30" hostname="EDUARDABARROS" time="0.038">
+  <properties/>
+  <testcase name="testarSolucao()" classname="br.unicap.ed1.atividade02.Testes" time="0.038"/>
+  <system-out><![CDATA[nums = { 1 }
+Numero faltando: 0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
